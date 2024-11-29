@@ -37,16 +37,10 @@ RPC_URL="https://rpc-amoy.polygon.technology"
 
 ## Run
 
-You can run each example function independently:
-
 ```bash
 npm run multi-sd
 ```
 
-
-```bash
-npm run start
-```
 
 ## License
 
